@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<users>
+	<user id="001">
+		<user_name>admin</user_name>
+		<password>admin</password>
+	</user>
+	<user id="002">
+		<user_name>朱晓龙</user_name>
+		<password>12345</password>
+	</user>
+	<user id="003">
+		<user_name>hello</user_name>
+		<password>12345</password>
+	</user>
+	<user id="004">
+		<user_name>admin262</user_name>
+		<password>12345</password>
+	</user>
+	<user id="005">
+		<user_name>afag</user_name>
+		<password>1234</password>
+	</user>
+</users>
